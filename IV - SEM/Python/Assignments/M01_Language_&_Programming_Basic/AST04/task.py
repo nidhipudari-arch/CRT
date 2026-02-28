@@ -1,7 +1,7 @@
 def Reverse_String(s: str) -> str:
     rev = ""
-    for ch in s:
-        rev = ch + rev
+    for i in s:
+        rev = i + rev
     return rev
 
 

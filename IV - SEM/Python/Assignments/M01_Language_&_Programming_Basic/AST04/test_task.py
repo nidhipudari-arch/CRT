@@ -1,5 +1,5 @@
 import unittest
-from task3 import Reverse_String
+from task import Reverse_String
 
 class TestAssignment(unittest.TestCase):
 

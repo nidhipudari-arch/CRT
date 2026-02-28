@@ -1,5 +1,5 @@
 import unittest
-from task1 import even_odd
+from task import even_odd
 
 class TestAssignment(unittest.TestCase):
 

@@ -1,5 +1,5 @@
 import unittest
-from task2 import Student_Grade_System
+from task import Student_Grade_System
 
 class TestAssignment(unittest.TestCase):
 
